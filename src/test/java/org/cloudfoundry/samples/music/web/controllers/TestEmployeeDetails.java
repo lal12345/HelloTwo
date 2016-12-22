@@ -22,6 +22,7 @@ public class TestEmployeeDetails {
       double appraisal = empBusinessLogic.calculateAppraisal(employee);
       assertEquals(500, appraisal, 0.0);
       System.out.println("assertEquals");
+      System.out.println("assertNOtEquals");
       
    }
 
