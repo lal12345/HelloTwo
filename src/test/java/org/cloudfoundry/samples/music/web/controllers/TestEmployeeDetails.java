@@ -11,7 +11,7 @@ public class TestEmployeeDetails {
    //test to check appraisal
    @Test
    public void testCalculateAppriasal() {
-	   System.out.println("sgardle");
+	   System.out.println("new gradle");
       employee.setName("Rajeev");
       employee.setAge(25);
       employee.setMonthlySalary(8000);
