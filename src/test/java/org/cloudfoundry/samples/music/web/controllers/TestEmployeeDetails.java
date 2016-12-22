@@ -26,6 +26,7 @@ public class TestEmployeeDetails {
    // test to check yearly salary
    @Test
    public void testCalculateYearlySalary() {
+	   System.out.println("new lal's changes");
       employee.setName("Rajeev");
       employee.setAge(25);
       employee.setMonthlySalary(8000);
