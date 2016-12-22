@@ -15,7 +15,7 @@ public class TestEmployeeDetails {
 	   System.out.println("new gradle");
 	   System.out.println("new lal's changes");
 	   System.out.println("new lal's changes2");
-	   System.out.println("new_gradle_change1");
+	   System.out.println("new_gradle_change2");
       employee.setName("Rajeev");
       employee.setAge(25);
       employee.setMonthlySalary(8000);
@@ -24,6 +24,7 @@ public class TestEmployeeDetails {
       assertEquals(500, appraisal, 0.0);
       System.out.println("assertEquals");
       System.out.println("assertNOtEquals");
+      System.out.println("new_gradle_change2");
       
    }
 
