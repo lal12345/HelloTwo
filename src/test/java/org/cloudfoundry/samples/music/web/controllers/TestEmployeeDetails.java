@@ -34,7 +34,7 @@ public class TestEmployeeDetails {
       employee.setName("Rajeev");
       employee.setAge(25);
       employee.setMonthlySalary(8000);
-		
+      System.out.println("Rajeevdsfsgfgfgfgfgfgfgfgfgfgfgf");
       double salary = empBusinessLogic.calculateYearlySalary(employee);
       assertEquals(96000, salary, 0.0);
       System.out.println("Rajeev");
