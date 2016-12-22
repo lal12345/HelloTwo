@@ -13,6 +13,7 @@ public class TestEmployeeDetails {
    public void testCalculateAppriasal() {
 	   System.out.println("new gradle");
 	   System.out.println("new lal's changes");
+	   System.out.println("new lal's changes2");
       employee.setName("Rajeev");
       employee.setAge(25);
       employee.setMonthlySalary(8000);
