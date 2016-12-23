@@ -25,6 +25,7 @@ public class TestEmployeeDetails {
       System.out.println("assertEquals");
       System.out.println("assertNOtEquals");
       System.out.println("new_gradle_change2");
+      System.out.println("new_gradle_change3");
       
    }
 
@@ -39,5 +40,6 @@ public class TestEmployeeDetails {
       double salary = empBusinessLogic.calculateYearlySalary(employee);
       assertEquals(96000, salary, 0.0);
       System.out.println("Rajeev");
+      System.out.println("Rajeev1....");
    }
 }
