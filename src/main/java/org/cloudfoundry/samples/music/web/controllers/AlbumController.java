@@ -29,6 +29,8 @@ public class AlbumController {
     public AlbumController(AlbumRepository repository) {
         this.repository = repository;
     }
+    
+    
 
     @ResponseBody
     @RequestMapping(method = RequestMethod.GET)
