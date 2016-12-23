@@ -41,5 +41,6 @@ public class TestEmployeeDetails {
       assertEquals(96000, salary, 0.0);
       System.out.println("Rajeev");
       System.out.println("Rajeev1....");
+      System.out.println("Rajeev2....");
    }
 }
