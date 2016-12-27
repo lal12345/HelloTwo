@@ -36,8 +36,9 @@ public class TestEmployeeDetails {
       System.out.println("Rajeev5....");
       System.out.println("new_gradle_change9");
       System.out.println("new_gradle_change12");
-      //hgfd
-
+      //This is new added line to check conflict (Line 40)
+      System.out.println("Line no 40");
+      
       System.out.println("new_gradle_change10");
 
       System.out.println("Rajeev6....");
